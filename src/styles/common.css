@@ -2,3 +2,9 @@ button {
   width: 200px;
   height: 50px;
 }
+thead {
+  background-color: #ff758c;
+}
+th {
+  width: 200px;
+}
