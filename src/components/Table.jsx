@@ -99,7 +99,7 @@ const Table = ({ windowId }) => {
             <th>가격</th>
             <th>수량</th>
             <th>좋아요</th>
-            <th>수정</th>
+            <th>정보</th>
           </tr>
         </thead>
         <Tr DummyData={dummyData}></Tr>
